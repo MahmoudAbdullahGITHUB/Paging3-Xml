@@ -12,7 +12,6 @@ import com.example.paging3.utils.Constants.PAGE_SIZE
 import com.example.paging3.utils.Utils
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
-import java.util.concurrent.Flow
 import javax.inject.Inject
 
 class StaticPagingSource @Inject constructor(
